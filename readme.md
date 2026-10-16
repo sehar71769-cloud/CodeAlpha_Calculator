@@ -1,0 +1,1 @@
+<p>this mini calcultor is built by using simple concept of html ,css and javascript.</p>
